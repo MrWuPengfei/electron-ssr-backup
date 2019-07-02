@@ -27,7 +27,7 @@
 
 ## 下载
 
-下载地址见[Github release](https://github.com/qingshuisiyuan/electron-ssr-backup/releases)，对应的操作系统下载的文件为
+下载地址见[Github release](https://github.com/MrWuPengfei/electron-ssr-backup/releases/tag/v0.2.6)，对应的操作系统下载的文件为
 
 - Windows `electron-ssr-setup-x.x.x.exe`
 - Mac `electron-ssr-x.x.x.dmg`
